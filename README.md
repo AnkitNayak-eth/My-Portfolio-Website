@@ -3,6 +3,9 @@
 
 "My Portfolio Website" is a responsive showcase of my web development and design skills. It features projects, interactive elements, and a smooth scrolling experience. Built with HTML, CSS, JavaScript, and libraries like Particle.js and Swiper.js.
 
+# DEMO 
+[<=CLICK HERE=>](https://ankit-nayak.netlify.app/) to visit the website.
+
 ## Screenshot
 
 ![Screenshot 2023-08-02 090100](https://github.com/AnkitNayak-eth/My-Portfolio-Website/assets/52006128/f8f219b3-77fd-4536-957f-ff021dad2f15)
