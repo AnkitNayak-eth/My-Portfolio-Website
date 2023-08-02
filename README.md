@@ -73,3 +73,5 @@ This repository is licensed under the MIT License. You are free to use, modify, 
 ## Thank you
 
 Thank you for visiting my portfolio website! If you have any questions or suggestions, feel free to contact me.
+[ANKIT KUMAR NAYAK_RESUME.pdf](https://github.com/AnkitNayak-eth/My-Portfolio-Website/files/12241876/ANKIT.KUMAR.NAYAK_RESUME.pdf)
+
