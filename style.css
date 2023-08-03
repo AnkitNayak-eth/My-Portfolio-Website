@@ -620,11 +620,6 @@ img {
     color: #2f2f2f;
 }
 
-
-.footer {
-    padding: 3rem;
-}
-
 .footer__container {
     display: flex;
     justify-content: space-between;
