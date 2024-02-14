@@ -47,3 +47,29 @@ function scrollUp() {
     this.scrollY >= 560 ? e.classList.add("show-scroll") : e.classList.remove("show-scroll")
 }
 window.addEventListener("scroll", scrollActive), window.addEventListener("scroll", scrollHeader), window.addEventListener("scroll", scrollUp);
+
+
+let mixer = mixitup(".work__container", {
+  selectors: {
+    target: ".work__card",
+  },
+  animation: {
+    duration: 300,
+  },
+});
+
+/* Link active work */
+const workLinks = document.querySelectorAll(".work__item");
+
+function activeWork(workLink) {
+  workLinks.forEach((wl) => {
+    wl.classList.remove("active-work");
+  });
+  workLink.classList.add("active-work");
+}
+
+workLinks.forEach((wl) => {
+  wl.addEventListener("click", () => {
+    activeWork(wl);
+  });
+});
