@@ -60,3 +60,23 @@ workLinks.forEach((wl) => {
     activeWork(wl);
   });
 });
+
+
+document.addEventListener('DOMContentLoaded', function() {
+      const searchInput = document.getElementById('searchInput');
+      const cards = document.querySelectorAll('.work__card');
+
+      searchInput.addEventListener('input', function() {
+        const searchTerm = searchInput.value.toLowerCase();
+
+        cards.forEach(card => {
+          const title = card.querySelector('.work__title').textContent.toLowerCase();
+
+          if (title.includes(searchTerm)) {
+            card.style.display = 'block';
+          } else {
+            card.style.display = 'none';
+          }
+        });
+      });
+    });
