@@ -8,7 +8,7 @@
 
 ## Screenshot
 
-![Screenshot 2023-08-02 090100](https://github.com/AnkitNayak-eth/My-Portfolio-Website/assets/52006128/bbaf314c-b67e-454c-8379-dbeaf5da42dd)
+![Screenshot (206)](https://github.com/AnkitNayak-eth/My-Portfolio-Website/assets/52006128/77c8f682-5595-43d2-8220-9aaba28f371c)
 
 ## Technologies Used
 
